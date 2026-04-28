@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center">  <img src="https://skillicons.dev/icons?i=html,bootstrap,Css,tailwind,javascript,mysql,mongodb,php,react,express,laravel,python,git"/> </p>
+<p align="center">  <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,javascript,mysql,mongodb,php,react,express,laravel,python,git"/> </p>
 **abdellah-chaibi/abdellah-chaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
