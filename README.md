@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Abdellah chaibi
 
-<p align="center">  <img src="https://skillicons.dev/icons?i=html,bootstrap,postman,css,tailwind,javascript,mysql,docker,mongodb,php,github,dart,react,express,laravel,python,java,git"/> </p>
-**abdellah-chaibi/abdellah-chaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Full-Stack & Software Developer from Morocco
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellah-chaibi" alt="abdellah-chaibi" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **TadlaBricol**
+
+- 🌱 I'm currently learning **développement logiciels**
+
+- 👯 I'm looking to collaborate on **Open Source Web & Mobile Applications**
+
+- 💬 Ask me about **Laravel, React, Express.js, Java, MySQL & REST APIs**
+
+- 📫 How to reach me **abdoochaib145@gmail.com**
+
+- ⚡ Fun fact ** turn coffee into clean code and love solving complex backend problems!**
+
+- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabdellah-chaibi.github.io%2FAbdellahChaibi%2F&urlhash=R-K5&mt=RicQiMoVmj6mp7EHjmfFSwzwFuMIKcaiInLxZZY_B4y422vGab3Fkhc6AWWJs9HolkH3iL-3JFLvk9WfTeFj98qUqxzH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiUlT38y%2BRyypF%2Fa35gvLcQ%3D%3D](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabdellah-chaibi.github.io%2FAbdellahChaibi%2F&urlhash=R-K5&mt=RicQiMoVmj6mp7EHjmfFSwzwFuMIKcaiInLxZZY_B4y422vGab3Fkhc6AWWJs9HolkH3iL-3JFLvk9WfTeFj98qUqxzH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiUlT38y%2BRyypF%2Fa35gvLcQ%3D%3D)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/abdellah-chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdellah-chaibi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Abdellah Chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdellah Chaibi" height="30" width="40" /></a>
+<a href="https://instagram.com/chaibiabdoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaibiabdoo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact" alt="abdellah-chaibi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en" alt="abdellah-chaibi" /></p>
+
