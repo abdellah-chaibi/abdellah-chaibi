@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack & Software Developer from Morocco
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellah-chaibi" alt="abdellah-chaibi" /></a> </p>
 
 - 🔭 I'm currently working on **TadlaBricol**
 
