@@ -116,8 +116,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10" alt="abdellah-chaibi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=1800" alt="abdellah-chaibi" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en" alt="abdellah-chaibi" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=1800" alt="abdellah-chaibi" /></p>
