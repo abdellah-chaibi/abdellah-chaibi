@@ -20,12 +20,7 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/abdellah-chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdellah-chaibi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Abdellah Chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdellah Chaibi" height="30" width="40" /></a>
-<a href="https://instagram.com/chaibiabdoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaibiabdoo" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -118,4 +113,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&include_all_commits=true&v=1" height="165" alt="abdellah-chaibi" />
   <img src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en&count_private=true&v=2" height="165" alt="abdellah-chaibi" />
+</p>
+<h3 align="centre">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/abdellah-chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdellah-chaibi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Abdellah Chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdellah Chaibi" height="30" width="40" /></a>
+<a href="https://instagram.com/chaibiabdoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaibiabdoo" height="30" width="40" /></a>
 </p>
