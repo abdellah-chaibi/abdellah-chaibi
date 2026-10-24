@@ -111,8 +111,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&include_all_commits=true&v=1" height="165" alt="abdellah-chaibi" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en&count_private=true&v=2" height="165" alt="abdellah-chaibi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=3600&v=3" height="165" alt="abdellah-chaibi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en&count_private=true&cache_seconds=3600&v=3" height="165" alt="abdellah-chaibi" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
