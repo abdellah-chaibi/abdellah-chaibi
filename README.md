@@ -19,7 +19,7 @@
 - 👨‍💻 All of my projects are available at **[https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabdellah-chaibi.github.io%2FAbdellahChaibi%2F&urlhash=R-K5&mt=RicQiMoVmj6mp7EHjmfFSwzwFuMIKcaiInLxZZY_B4y422vGab3Fkhc6AWWJs9HolkH3iL-3JFLvk9WfTeFj98qUqxzH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiUlT38y%2BRyypF%2Fa35gvLcQ%3D%3D](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabdellah-chaibi.github.io%2FAbdellahChaibi%2F&urlhash=R-K5&mt=RicQiMoVmj6mp7EHjmfFSwzwFuMIKcaiInLxZZY_B4y422vGab3Fkhc6AWWJs9HolkH3iL-3JFLvk9WfTeFj98qUqxzH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiUlT38y%2BRyypF%2Fa35gvLcQ%3D%3D)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**
-
+<hr style="border: 1px solid red;">
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -114,6 +114,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=1800&v=4" height="165" alt="abdellah-chaibi" />
   <img src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en&count_private=true&cache_seconds=1800&v=4" height="165" alt="abdellah-chaibi" />
 </p>
+<hr style="border: 1px solid red;">
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/abdellah-chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdellah-chaibi" height="30" width="40" /></a>
