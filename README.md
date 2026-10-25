@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdoochaib145@gmail.com**
 
-- ⚡ Fun fact ** turn coffee into clean code and love solving complex backend problems!**
+- ⚡ Fun fact ** turn coffee into clean code and love solving complex backend problems!*
 
 - 👨‍💻 All of my projects are available at **[https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabdellah-chaibi.github.io%2FAbdellahChaibi%2F&urlhash=R-K5&mt=RicQiMoVmj6mp7EHjmfFSwzwFuMIKcaiInLxZZY_B4y422vGab3Fkhc6AWWJs9HolkH3iL-3JFLvk9WfTeFj98qUqxzH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiUlT38y%2BRyypF%2Fa35gvLcQ%3D%3D](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabdellah-chaibi.github.io%2FAbdellahChaibi%2F&urlhash=R-K5&mt=RicQiMoVmj6mp7EHjmfFSwzwFuMIKcaiInLxZZY_B4y422vGab3Fkhc6AWWJs9HolkH3iL-3JFLvk9WfTeFj98qUqxzH&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiUlT38y%2BRyypF%2Fa35gvLcQ%3D%3D)**
 
