@@ -1,13 +1,12 @@
-<h1 align="center"> hello , I'm Abdellah chaibi </h1>
+<h1 align="center">Hello, I'm Abdellah Chaibi</h1>
 
-### A passionate Full-Stack & Software Developer from Morocco
+<h3 align="center">A passionate Full-Stack & Software Developer from Morocco</h3>
 
+- **Email:** abdoochaib145@gmail.com  
+- **Portfolio:** [abdellah-chaibi.github.io/AbdellahChaibi](https://abdellah-chaibi.github.io/AbdellahChaibi/)  
+- **CV:** [Google Drive CV Link](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)  
 
-- email :  **abdoochaib145@gmail.com**</br>
-- portfolio : (https://abdellah-chaibi.github.io/AbdellahChaibi/)**</br>
-- Cv : (https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**</br>
 <hr style="border: 1px solid red;">
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -101,10 +100,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-chaibi&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=60" height="165" alt="abdellah-chaibi" />
   <img src="https://github-readme-stats.vercel.app/api?username=abdellah-chaibi&show_icons=true&locale=en&count_private=true&cache_seconds=60" height="165" alt="abdellah-chaibi" />
 </p>
+
 <hr style="border: 1px solid red;">
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://github.com/abdellah-chaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdellah-chaibi" height="30" width="40" /></a>
-<a href="linkedin.com/in/abdellah-chaibi-778b85370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdellah Chaibi" height="30" width="40" /></a>
-<a href="https://instagram.com/chaibiabdoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaibiabdoo" height="30" width="40" /></a>
+  <a href="https://github.com/abdellah-chaibi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdellah-chaibi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdellah-chaibi-778b85370" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdellah Chaibi" height="30" width="40" /></a>
+  <a href="https://instagram.com/chaibiabdoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaibiabdoo" height="30" width="40" /></a>
 </p>
