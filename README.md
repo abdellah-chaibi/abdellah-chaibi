@@ -3,9 +3,9 @@
 ### A passionate Full-Stack & Software Developer from Morocco
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellah-chaibi&cache_seconds=3600" alt="abdellah-chaibi" /></a> </p>
-- 📫 How to reach me **abdoochaib145@gmail.com**</br>
-- 👨‍💻 All of my projects are available at **[Portfolio](https://abdellah-chaibi.github.io/AbdellahChaibi/)**</br>
-- 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**</br>
+- email :  **abdoochaib145@gmail.com**</br>
+- portfolio : (https://abdellah-chaibi.github.io/AbdellahChaibi/)**</br>
+- Cv : (https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**</br>
 <hr style="border: 1px solid red;">
 
 
