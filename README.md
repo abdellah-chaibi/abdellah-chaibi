@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack & Software Developer from Morocco
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellah-chaibi&cache_seconds=3600" alt="abdellah-chaibi" /></a> </p>
+
 - email :  **abdoochaib145@gmail.com**</br>
 - portfolio : (https://abdellah-chaibi.github.io/AbdellahChaibi/)**</br>
 - Cv : (https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**</br>
