@@ -3,22 +3,10 @@
 ### A passionate Full-Stack & Software Developer from Morocco
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellah-chaibi&cache_seconds=3600" alt="abdellah-chaibi" /></a> </p>
-
-- 🔭 I'm currently working on **TadlaBricol**
-
-- 🌱 I'm currently learning **développement logiciels**
-
-- 👯 I'm looking to collaborate on **Open Source Web & Mobile Applications**
-
-- 💬 Ask me about **Laravel, React, Express.js, Java, MySQL & REST APIs**
-
 - 📫 How to reach me **abdoochaib145@gmail.com**
-
-- ⚡ Fun fact ** turn coffee into clean code and love solving complex backend problems!**
-
 - 👨‍💻 All of my projects are available at **[Portfolio](https://abdellah-chaibi.github.io/AbdellahChaibi/)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**
+- 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1hVWm6LnPU2kGELOt2hok9fLQAP981QCW/view?usp=sharing)**
 <hr style="border: 1px solid red;">
 
 
